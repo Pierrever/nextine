@@ -25,7 +25,7 @@
 }
 
 .success {
-  background-color: var(--color-success-500);
+  background-color: blueviolet;
   color: var(--color-grey-800);
 }
 
